@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T08:25:09.812Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="p9YosPkzSUX-8D-iit-s" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T08:44:48.836Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YmXQljJeatkopPmJRj9D" version="14.1.3" type="github">
   <diagram id="PYtqz0jJLVaQwFEC9LmB" name="Page-1">
-    <mxGraphModel dx="745" dy="310" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="310" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,9 +180,6 @@
         <mxCell id="cX_QqQjDj7oF1QqufWb9-122" value="u(res), u(checkCart)" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=8;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="147" y="790" width="58" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="cX_QqQjDj7oF1QqufWb9-132" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;verticalAlign=middle;fontSize=8;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="393" y="900" width="58" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="cX_QqQjDj7oF1QqufWb9-140" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;verticalAlign=middle;fontSize=8;fontStyle=0" edge="1" parent="1" source="cX_QqQjDj7oF1QqufWb9-132" target="cX_QqQjDj7oF1QqufWb9-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -200,6 +197,9 @@
         </mxCell>
         <mxCell id="cX_QqQjDj7oF1QqufWb9-198" value="d(checkCart), u(req)" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=8;fontStyle=0;backgroundOutline=0;" vertex="1" parent="1">
           <mxGeometry x="307" y="425" width="58" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="cX_QqQjDj7oF1QqufWb9-132" value="Kill all" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=8;fontStyle=0;snapToPoint=0;labelBorderColor=none;labelBackgroundColor=none;comic=0;treeMoving=0;treeFolding=0;metaEdit=0;resizable=1;labelPadding=4;fixDash=0;backgroundOutline=1;shadow=0;sketch=0;perimeterSpacing=0;strokeWidth=2;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="393" y="900" width="58" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
